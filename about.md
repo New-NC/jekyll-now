@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Some information about you!
+Quem somos nós? O que fazemos? Onde vivemos?
 
-### More Information
+### Equipe
 
-A place to include any other types of information that you'd like to include about yourself.
+Eu, você e o Zooboomafoo!!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[teremos algum e-mail???](mailto:email@domain.com)
