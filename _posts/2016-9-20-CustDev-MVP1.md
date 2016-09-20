@@ -22,7 +22,7 @@ Nosso time dividiu os papéis em:
 	Filipe: Programação front-end e Design
 	Guilherme: Programação back-end
 
-Usaremos um Kanban (disponível em [Kanban](https://goo.gl/i9qnBJ "Kanban")) para gerenciar os entregáveis a serem feitos, subdivididos em tasks semanais.
+Usaremos um Kanban (disponível em [Kanban](https://kanban-chi.appspot.com/dashboard/6511160603443200/ "Kanban")) para gerenciar os entregáveis a serem feitos, subdivididos em tasks semanais.
 
 Teremos “meetings” quando houver dúvida ou problema (pessoalmente ou via internet), e semanalmente na postagem do site.
 
