@@ -3,6 +3,7 @@ layout: post
 title: Customer Development e definição do MVP1
 ---
 
+Atualizado: 27/09 (acrescentados links para os projetos do github)
 Resultados da validação e definição dos entregáveis do MVP1
 
 # Customer Development
@@ -26,7 +27,7 @@ Usaremos um Kanban (disponível em [Kanban](https://kanban-chi.appspot.com/dashb
 
 Teremos “meetings” quando houver dúvida ou problema (pessoalmente ou via internet), e semanalmente na postagem do site.
 
-E o Git/Github para gerenciamento de versões: [Projeto Github](https://github.com/New-NC/DiscoverMovie "Github").
+E o Git/Github para gerenciamento de versões: [Projeto Github (API)](https://github.com/New-NC/DiscoverMovieAPI "DiscoverMovieAPI"), [Projeto Github (App)](https://github.com/New-NC/DiscoverMovie "DiscoverMovie").
 
 # MVP1 - Sprint 1
 
