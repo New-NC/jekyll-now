@@ -1,0 +1,21 @@
+---
+layout: post
+title: Relatório semanal 03
+---
+
+Atividades realizadas na semana de 04 a 11 de outubro.
+
+
+# Preparação do Ambiente de Desenvolvimento Android
+- Instação do Android Studio
+- Projeto inicial
+
+
+# Requisição de capas de filmes via API
+
+# Múltiplas requisições e armazenamento de respostas
+
+# Modelagem inicial
+- incremental
+
+# Progresso prototipação (IHC)
