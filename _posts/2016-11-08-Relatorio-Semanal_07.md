@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Relatório semanal 07
+title: Relatório semanal 08
 ---
 
-Atividades realizadas na semana de 01 a 08 de novembro.
+Atividades realizadas na semana de 08 a 16 de novembro.
 
 
-# Definição da terceira tela de perguntas
-Após analisarmos o questionário para validação do MVP1, descobrimos que o estúdio produtor do filme
-era de interesse para várias pessoas. Por isso, decidimos que a terceira questão será relacionada aos
-estúdios. Nela, traremos a capa de um filme de cada estúdio, junto ao nome dele, e o usuário selecionará um. As opções serão: Disney, Pixar, Dreamworks e Ghibli.
+# Definição da tela com os detalhes de cada filme
+Essa tela contém os detalhes sobre determinado filme, quando o usuário estiver
+na tela com os 5 resultados ele pode clicar na capa para ler saber a data de
+lançamento, a nota do filme e a sua resenha. Antes de implementarmos, fizemos
+um protótipo baixo nível.
 
-# Desenvolvimento da terceira tela de perguntas
-Finalizamos o desenvolvimento da interface da terceira tela de perguntas.
+# Firebase e Facebook
+Começamos a implementar a comunicação do aplicativo com o Firebase e com o Facebook.
+Fizemos testes para entender o funcionamento e a configuração destes.
+
