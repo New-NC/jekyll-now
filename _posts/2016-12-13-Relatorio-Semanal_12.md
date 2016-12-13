@@ -26,3 +26,6 @@ no menu lateral, que está presente apenas na primeira tela, visto que as
 telas das questões e dos detalhes do filme não devem possuir essa opção de 
 interação.
 
+# Melhoria na qualidade dos resultados
+
+Como nós aumentamos a quantidade dos filmes nos repositórios do servidor, novos resultados "estranhos" apareceram, por isso foi necessário atualizar os filtros com as palavras-chave encontradas na maioria destes resultados, alguns ainda não são filtrados, mas a confiança dos resultados praticamente não se alterou em relação ao da versão anterior.
